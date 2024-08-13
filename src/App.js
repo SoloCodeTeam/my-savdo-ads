@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <img src="./icon.png" alt="" />
+      
     </div>
   );
 }
